@@ -1,0 +1,1 @@
+from stest import strings_list 
