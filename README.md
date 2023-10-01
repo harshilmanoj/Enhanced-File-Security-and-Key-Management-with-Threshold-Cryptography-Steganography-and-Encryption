@@ -6,6 +6,7 @@
 
 This project aims to significantly enhance file security and key management practices within an organization. It achieves this goal by combining advanced cryptographic techniques, including threshold cryptography and steganography.
 
+
 ## Key Components
 
 ### Threshold Cryptography Using Elliptic Curve Cryptography (ECC)
